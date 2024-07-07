@@ -33,3 +33,8 @@ This project showcases a gallery of AI-generated images created with Midjourney.
 - **scripts**: JavaScript files for interactivity and functionality.
 - **styles**: CSS files for styling the webpage.
 - **index.html**: The main HTML file that structures the webpage.
+
+### Key Features
+- **Dynamic Navigation Styling**: Navigation bar changes style upon scrolling past the hero section.
+- **Image Lightbox**: Clickable images open in a full-screen lightbox with next and previous navigation.
+- **Responsive Grid Layout**: Images are displayed in a responsive grid layout, adjusting for various screen sizes.
