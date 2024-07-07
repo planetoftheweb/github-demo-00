@@ -12,3 +12,24 @@ This project showcases a gallery of AI-generated images created with Midjourney.
 - **Pico.css**: Minimal CSS framework for styling. [Pico.css](https://picocss.com)
 - **Google Fonts**: Utilizing "Play" and "Titillium Web" fonts for typography. [Play](https://fonts.google.com/specimen/Play) and [Titillium Web](https://fonts.google.com/specimen/Titillium+Web)
 
+## Project Structure
+
+```plaintext
+.
+├── images
+│   ├── characters
+│   ├── cityscapes
+│   ├── indoors
+│   ├── styles
+│   └── textures
+├── scripts
+│   └── script.js
+├── styles
+│   └── style.css
+└── index.html
+```
+
+- **images**: Contains categorized folders for all gallery images.
+- **scripts**: JavaScript files for interactivity and functionality.
+- **styles**: CSS files for styling the webpage.
+- **index.html**: The main HTML file that structures the webpage.
