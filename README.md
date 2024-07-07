@@ -33,3 +33,7 @@ This project showcases a gallery of AI-generated images created with Midjourney.
 - **scripts**: JavaScript files for interactivity and functionality.
 - **styles**: CSS files for styling the webpage.
 - **index.html**: The main HTML file that structures the webpage.
+
+### Fonts
+- **Play**: [Play Font](https://fonts.google.com/specimen/Play)
+- **Titillium Web**: [Titillium Web Font](https://fonts.google.com/specimen/Titillium+Web)
