@@ -34,6 +34,10 @@ This project showcases a gallery of AI-generated images created with Midjourney.
 - **styles**: CSS files for styling the webpage.
 - **index.html**: The main HTML file that structures the webpage.
 
+### Fonts
+- **Play**: [Play Font](https://fonts.google.com/specimen/Play)
+- **Titillium Web**: [Titillium Web Font](https://fonts.google.com/specimen/Titillium+Web)
+
 ### Key Features
 - **Dynamic Navigation Styling**: Navigation bar changes style upon scrolling past the hero section.
 - **Image Lightbox**: Clickable images open in a full-screen lightbox with next and previous navigation.
